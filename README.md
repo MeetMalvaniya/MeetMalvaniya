@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @MeetMalvaniya
-- 👀 I’m interested in Softwere Development
-- 🌱 I’m currently learning Python Frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Meet Malvaniya
 
-<!---
-MeetMalvaniya/MeetMalvaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A passionate developer exploring the world of Python and its related technologies.
+
+🎓 Currently pursuing Master of Computer Applications (MCA), with interests in:
+
+🐍 Python Development
+🌐 Web Development (Django, Flask)
+📊 Data Science & Machine Learning
+
+🚀 I love building projects, experimenting with new ideas
+
+🌱 Currently Learning
+Advanced Python concepts
+Django & REST Framework
+Machine Learning fundamentals
